@@ -1,4 +1,4 @@
-# sofupdate_app
+# Set_backgroundimage_to_full_screen_app
 
 A new Flutter application.
 
